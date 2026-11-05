@@ -39,7 +39,7 @@ python3 -m venv venv
 
 #### En sistemas Windows:
 ```bash
-venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 #### En sistemas MacOS/Linux:
